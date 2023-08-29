@@ -1,0 +1,13 @@
+name = "Edge of Existence"
+author = "Waveformal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4869f692200a16ed3ae56c9bfa5345ad25e27b6d2085b70beaaf8667299d7f4"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"

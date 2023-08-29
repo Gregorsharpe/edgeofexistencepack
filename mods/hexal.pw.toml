@@ -1,0 +1,13 @@
+name = "Hexal"
+filename = "hexal-fabric-1.19.2-0.2.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "197aba7dd4940124535b8f7b8915953c595c338d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4631350
+project-id = 824725

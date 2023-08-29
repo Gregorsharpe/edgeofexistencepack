@@ -1,0 +1,13 @@
+name = "Mob Catcher [FABRIC/FORGE]"
+filename = "MobCatcher-Fabric-1.19.2-1.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27c223a8e9659fa98bda3ac146983c11416ca3e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4133483
+project-id = 498389

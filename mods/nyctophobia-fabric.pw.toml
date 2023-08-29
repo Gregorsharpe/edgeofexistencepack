@@ -1,0 +1,13 @@
+name = "Nyctophobia (FABRIC)"
+filename = "The_Graveyard_Biomes_1.6_(FABRIC)_for_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1bc5087830865f3f6214ed1ad7d75c6d0cce0f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4090409
+project-id = 584511

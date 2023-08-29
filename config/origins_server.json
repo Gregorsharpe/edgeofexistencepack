@@ -1,0 +1,625 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "extraorigins:piglin": {
+      "enabled": true,
+      "extraorigins:all_that_glitters": true,
+      "extraorigins:piglin_neutrality": true,
+      "extraorigins:crossbow_master": true,
+      "origins:nether_spawn": true,
+      "extraorigins:homesick": true,
+      "origins:carnivore": true,
+      "extraorigins:flabby": true,
+      "extraorigins:soul_spooked": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "extraorigins:inchling": {
+      "enabled": true,
+      "extraorigins:bite_sized": true,
+      "extraorigins:nimble": true,
+      "extraorigins:small_appetite": true,
+      "origins:climbing": true,
+      "extraorigins:jockey": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "extraorigins:floran": {
+      "enabled": true,
+      "extraorigins:green_thumb": true,
+      "extraorigins:photosynthesis": true,
+      "extraorigins:absorbing": true,
+      "extraorigins:flammable": true,
+      "extraorigins:nectarivore": true
+    },
+    "extraorigins:truffle": {
+      "enabled": true,
+      "extraorigins:magic_spores": true,
+      "extraorigins:infestation": true,
+      "extraorigins:rooted": true,
+      "extraorigins:decomposition": true
+    },
+    "icarus:icarae": {
+      "enabled": true,
+      "icarus:wings": true,
+      "origins:aerial_combatant": true,
+      "icarus:hollow_bones": true,
+      "origins:no_shield": true,
+      "origins:carnivore": true
+    },
+    "moborigins:witch": {
+      "enabled": true,
+      "moborigins:better_potions": true,
+      "moborigins:potion_action": true,
+      "moborigins:witch_particles": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "moborigins:drowned": {
+      "enabled": true,
+      "moborigins:trident_expert": true,
+      "moborigins:water_vision": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:water_combatant": true,
+      "moborigins:undead": true,
+      "moborigins:zombie_hunger": true,
+      "moborigins:surface_slowness": true,
+      "origins:carnivore": true
+    },
+    "consularsorigins:warden": {
+      "enabled": true,
+      "consularsorigins:blind": true,
+      "consularsorigins:strong": true,
+      "consularsorigins:cityspawn": true,
+      "consularsorigins:sculk_shader": true,
+      "consularsorigins:silentstep": true,
+      "consularsorigins:darkness_immunity": true,
+      "consularsorigins:sense_vibrations": true,
+      "consularsorigins:big": true,
+      "origins:no_shield": true,
+      "consularsorigins:warden_hud": true
+    },
+    "consularsorigins:enchantling": {
+      "enabled": true,
+      "consularsorigins:knowledge_hunger": true,
+      "consularsorigins:quick_learner": true,
+      "consularsorigins:better_enchanting": true,
+      "consularsorigins:effect_immunity": true,
+      "consularsorigins:cant_eat": true
+    },
+    "consularsorigins:fairy": {
+      "enabled": true,
+      "consularsorigins:half_sized": true,
+      "consularsorigins:fairy_flight": true,
+      "consularsorigins:effect_immunity": true,
+      "origins:light_armor": true,
+      "origins:no_shield": true
+    },
+    "genesis:crystalline": {
+      "enabled": true
+    },
+    "consularsorigins:axolotl": {
+      "enabled": true,
+      "consularsorigins:playdead": true,
+      "consularsorigins:waterspawn": true,
+      "consularsorigins:airconserve": true,
+      "consularsorigins:waterlegs": true,
+      "origins:water_breathing": true,
+      "consularsorigins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "moborigins:bee": {
+      "enabled": true,
+      "moborigins:stinger": true,
+      "moborigins:flower_power": true,
+      "moborigins:queen_bee": true,
+      "moborigins:small_bug": true,
+      "moborigins:bee_wings": true,
+      "origins:vegetarian": true
+    },
+    "genesis:dragonkin": {
+      "enabled": true,
+      "genesis:dragonkin/fireball": true,
+      "genesis:dragonkin/dragon_flight": true,
+      "genesis:dragonkin/launch": true,
+      "genesis:dragonkin/dragon_scales": true,
+      "genesis:dragonkin/dragon_fireball": true,
+      "genesis:dragonkin/grounded": true,
+      "genesis:dragonkin/carnivore": true,
+      "genesis:dragonkin/immunity": true,
+      "origins:ender_particles": true
+    },
+    "consularsorigins:kobold": {
+      "enabled": true,
+      "consularsorigins:hastey": true,
+      "consularsorigins:half_sized": true,
+      "consularsorigins:strongerpickaxe": true,
+      "consularsorigins:light": true,
+      "consularsorigins:dynamite": true
+    },
+    "even_more_origins:charged_sphagnum": {
+      "enabled": true,
+      "even_more_origins:charged": true,
+      "even_more_origins:explode_charged": true,
+      "even_more_origins:green": true,
+      "even_more_origins:less_hunger": true,
+      "even_more_origins:sneaky": true,
+      "even_more_origins:weak_arms": true
+    },
+    "even_more_origins:equidae": {
+      "enabled": true,
+      "even_more_origins:pack_animal": true,
+      "even_more_origins:strong_legs": true,
+      "even_more_origins:vegetarian": true
+    },
+    "consularsorigins:mushboi": {
+      "enabled": true,
+      "consularsorigins:poisonous": true,
+      "consularsorigins:venomous": true,
+      "consularsorigins:implant": true,
+      "consularsorigins:love_for_mushrooms": true,
+      "consularsorigins:smol": true,
+      "consularsorigins:mushroom_inhabitant": true,
+      "consularsorigins:antivenom": true,
+      "origins:light_armor": true
+    },
+    "genesis:arcanite": {
+      "enabled": true,
+      "genesis:arcanite/scholar": true,
+      "genesis:arcanite/eldritch_talent": true,
+      "genesis:arcanite/mana": true,
+      "genesis:arcanite/magicman": true,
+      "genesis:arcanite/weak": true,
+      "genesis:arcanite/filler_regen": true,
+      "genesis:arcanite/filler_fireball": true,
+      "genesis:arcanite/filler_lightning": true,
+      "genesis:arcanite/filler_wither": true,
+      "genesis:arcanite/enchant_particles": true,
+      "genesis:arcanite/more_projectile_damage": true,
+      "genesis:arcanite/more_wither_damage": true,
+      "genesis:arcanite/mana_change": true,
+      "genesis:arcanite/mana_wither": true,
+      "genesis:arcanite/mana_respawn": true,
+      "genesis:arcanite/mana_regen": true,
+      "genesis:arcanite/fire_immune": true,
+      "genesis:arcanite/mana_lightning": true,
+      "genesis:arcanite/mana_area_regen": true,
+      "genesis:arcanite/lightning_immune": true,
+      "genesis:arcanite/toggle": true,
+      "genesis:arcanite/advancements": true,
+      "genesis:arcanite/flight": true
+    },
+    "consularsorigins:vampire": {
+      "enabled": true,
+      "consularsorigins:desaturate": true,
+      "consularsorigins:interchangeable": true,
+      "consularsorigins:vampire_burn": true,
+      "consularsorigins:speedy": true,
+      "consularsorigins:life_steal": true
+    },
+    "genesis:quartz": {
+      "enabled": true
+    },
+    "consularsorigins:wither_skeleton": {
+      "enabled": true,
+      "consularsorigins:fire_immunity": true,
+      "consularsorigins:shoot_flaming_arrow": true,
+      "consularsorigins:darkgrayskin": true,
+      "consularsorigins:supercharge": true,
+      "consularsorigins:alreadydead": true,
+      "consularsorigins:alreadywither": true
+    },
+    "moborigins:wolf": {
+      "enabled": true,
+      "moborigins:wolf_body": true,
+      "moborigins:full_moon": true,
+      "moborigins:alpha_wolf": true,
+      "moborigins:wolf_howl": true,
+      "moborigins:wolf_pack": true,
+      "origins:carnivore": true
+    },
+    "genesis:ghastling": {
+      "enabled": true,
+      "genesis:ghastling/fireball": true,
+      "origins:more_exhaustion": true,
+      "genesis:ghastling/gaseous": true,
+      "genesis:ghastling/aghast": true,
+      "genesis:ghastling/bloated": true
+    },
+    "consularsorigins:gnome": {
+      "enabled": true,
+      "consularsorigins:adaptive": true,
+      "consularsorigins:half_sized": true,
+      "consularsorigins:light": true
+    },
+    "consularsorigins:lizardling": {
+      "enabled": true,
+      "consularsorigins:climbing": true,
+      "consularsorigins:dash": true,
+      "consularsorigins:humid_speed": true,
+      "consularsorigins:cold_slow": true,
+      "consularsorigins:lizardling_size": true
+    },
+    "consularsorigins:frog": {
+      "enabled": true,
+      "consularsorigins:fragile": true,
+      "consularsorigins:strong_legs": true,
+      "consularsorigins:frog_size": true,
+      "consularsorigins:swamp_inhabitant": true
+    },
+    "even_more_origins:sphagnum": {
+      "enabled": true,
+      "even_more_origins:explode": true,
+      "even_more_origins:green": true,
+      "even_more_origins:less_hunger": true,
+      "even_more_origins:sneaky": true,
+      "even_more_origins:weak_arms": true
+    },
+    "moborigins:strider": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:water_vulnerability": true,
+      "moborigins:lava_walk": true,
+      "moborigins:surface_slowness": true,
+      "moborigins:rideable_creature": true,
+      "moborigins:strider_shake": true,
+      "moborigins:warped_fungus_eater": true
+    },
+    "consularsorigins:golem": {
+      "enabled": true,
+      "consularsorigins:noveins": true,
+      "consularsorigins:super_armor": true,
+      "consularsorigins:strong": true,
+      "consularsorigins:nighteye": true,
+      "origins:strong_arms": true,
+      "consularsorigins:grayskin": true
+    },
+    "consularsorigins:vampire_bat": {
+      "enabled": true,
+      "consularsorigins:desaturate": true,
+      "consularsorigins:flying": true,
+      "consularsorigins:tiny": true,
+      "consularsorigins:interchangeable": true
+    },
+    "consularsorigins:stoneling": {
+      "enabled": true,
+      "consularsorigins:noveins": true,
+      "origins:natural_armor": true,
+      "consularsorigins:habitatboundstoneling": true,
+      "consularsorigins:nighteye": true,
+      "origins:strong_arms": true,
+      "consularsorigins:cavedweller": true,
+      "consularsorigins:grayskin": true,
+      "consularsorigins:stoneling_evolve_tip": true,
+      "consularsorigins:stoneling_size": true
+    },
+    "genesis:amethyst": {
+      "enabled": true
+    },
+    "genesis:golem": {
+      "enabled": true,
+      "genesis:golem/ironskin": true,
+      "genesis:golem/forceful": true,
+      "genesis:golem/colossus": true,
+      "genesis:golem/food/hungryiron": true,
+      "genesis:golem/clumsy": true,
+      "genesis:golem/bulkydiamond": true,
+      "genesis:golem/bulkyiron": true,
+      "genesis:golem/bulkygold": true,
+      "genesis:golem/bulkynetherite": true,
+      "genesis:golem/steadfast": true,
+      "genesis:golem/bigman": true,
+      "genesis:golem/more_knockback": true,
+      "genesis:golem/heavy": true,
+      "genesis:golem/increased_size": true,
+      "genesis:golem/throw": true,
+      "genesis:golem/strong": true,
+      "genesis:golem/food/hungrygold": true,
+      "genesis:golem/food/raw_hungry": true,
+      "genesis:golem/food/hungrynether": true,
+      "genesis:golem/food/no_food": true,
+      "genesis:golem/food/ironfood": true,
+      "genesis:golem/reach": true,
+      "genesis:golem/unwieldy": true,
+      "genesis:golem/village_spawn": true,
+      "genesis:golem/food/eat_iron_nugget": true,
+      "genesis:golem/food/eat_gold_nugget": true,
+      "genesis:golem/food/eat_scrap": true,
+      "genesis:golem/food/eat_nether_block": true,
+      "genesis:golem/food/eat_iron_block": true,
+      "genesis:golem/food/eat_gold_block": true,
+      "genesis:golem/food/copper_food": true
+    },
+    "moborigins:guardian": {
+      "enabled": true,
+      "moborigins:guardian_spikes": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "moborigins:elder_guardian": {
+      "enabled": true,
+      "moborigins:elder_spikes": true,
+      "moborigins:elder_magic": true,
+      "moborigins:mining_fatigue_immune": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "consularsorigins:brute": {
+      "enabled": true,
+      "consularsorigins:brute_force": true,
+      "consularsorigins:chunky": true,
+      "consularsorigins:barbaricrage": true,
+      "origins:light_armor": true,
+      "consularsorigins:half_piglin": true,
+      "origins:carnivore": true,
+      "origins:nether_spawn": true
+    },
+    "genesis:silverfish": {
+      "enabled": true,
+      "genesis:silverfish/burrow": true,
+      "genesis:silverfish/silverfriend": true,
+      "genesis:silverfish/silverteam": true,
+      "genesis:silverfish/infest": true,
+      "genesis:silverfish/insect": true,
+      "genesis:silverfish/nocturnal": true,
+      "genesis:silverfish/squishy": true,
+      "genesis:silverfish/night_vision": true,
+      "genesis:silverfish/leave_team": true,
+      "genesis:silverfish/silver": true,
+      "genesis:silverfish/silver_resource": true,
+      "genesis:silverfish/cave_spawn": true
+    },
+    "consularsorigins:babyzombie": {
+      "enabled": true,
+      "consularsorigins:hungerpunch": true,
+      "consularsorigins:beigeskin": true,
+      "consularsorigins:alreadydead": true,
+      "consularsorigins:considered_undead": true
+    },
+    "even_more_origins:terram_draconis": {
+      "enabled": true,
+      "even_more_origins:dragon_breath": true,
+      "even_more_origins:dragon_crystal": true,
+      "even_more_origins:dragon_wings": true,
+      "even_more_origins:fast_metabolism": true,
+      "even_more_origins:no_regen": true
+    },
+    "moborigins:evoker": {
+      "enabled": true,
+      "moborigins:summon_fangs": true,
+      "moborigins:lower_totem_chance": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "consularsorigins:rat": {
+      "enabled": true,
+      "consularsorigins:rat_size": true,
+      "consularsorigins:climbing": true,
+      "consularsorigins:speedy": true,
+      "consularsorigins:rat_mouth": true,
+      "consularsorigins:nighteye": true
+    },
+    "consularsorigins:raccoon": {
+      "enabled": true,
+      "consularsorigins:weasel": true,
+      "consularsorigins:opportunistic_eater": true,
+      "consularsorigins:nighteye": true,
+      "consularsorigins:scurry": true,
+      "consularsorigins:camoflague": true,
+      "consularsorigins:sly_cooper": true,
+      "consularsorigins:climbing": true,
+      "consularsorigins:nocturnal": true,
+      "consularsorigins:burrower": true
+    },
+    "consularsorigins:skeleton": {
+      "enabled": true,
+      "consularsorigins:undead": true,
+      "consularsorigins:shoot_arrow": true,
+      "consularsorigins:grayskin": true,
+      "consularsorigins:alreadydead": true,
+      "consularsorigins:underground": true,
+      "consularsorigins:considered_undead": true
+    },
+    "even_more_origins:golmi": {
+      "enabled": true,
+      "even_more_origins:big": true,
+      "even_more_origins:heavy": true,
+      "even_more_origins:no_air": true,
+      "even_more_origins:no_fall": true,
+      "even_more_origins:strong_arms": true
+    },
+    "consularsorigins:vex": {
+      "enabled": true,
+      "consularsorigins:vex_dash": true,
+      "consularsorigins:tiny": true,
+      "consularsorigins:sword_boost": true,
+      "origins:phantomize": true,
+      "consularsorigins:ghost_skin": true,
+      "origins:phasing": true,
+      "origins:hunger_over_time": true,
+      "origins:phantomize_overlay": true,
+      "origins:invisibility": true,
+      "consularsorigins:vex_flight": true
+    },
+    "consularsorigins:bat": {
+      "enabled": true,
+      "consularsorigins:desaturate": true,
+      "consularsorigins:flying": true,
+      "consularsorigins:tiny": true,
+      "consularsorigins:bat_evolve_tip": true
+    },
+    "moborigins:fox": {
+      "enabled": true,
+      "moborigins:timid_creature": true,
+      "moborigins:better_berries": true,
+      "moborigins:careful_gatherer": true,
+      "moborigins:item_collector": true,
+      "moborigins:sly": true,
+      "moborigins:small_fox": true
+    },
+    "moborigins:snowgolem": {
+      "enabled": true,
+      "origins:water_vulnerability": true,
+      "moborigins:temperature": true,
+      "moborigins:overheat": true,
+      "moborigins:melting": true,
+      "moborigins:stronger_snowballs": true,
+      "moborigins:snow_trail": true,
+      "moborigins:frigid_strength": true
+    },
+    "even_more_origins:vulpes": {
+      "enabled": true,
+      "even_more_origins:berry_lover": true,
+      "even_more_origins:fox_ears": true,
+      "even_more_origins:frail": true,
+      "even_more_origins:nimble": true,
+      "even_more_origins:pounce": true,
+      "even_more_origins:small": true
+    },
+    "consularsorigins:dwarf": {
+      "enabled": true,
+      "consularsorigins:dash": true,
+      "consularsorigins:half_sized": true,
+      "consularsorigins:light": true,
+      "consularsorigins:wieldy": true
+    },
+    "genesis:emerald": {
+      "enabled": true
+    },
+    "moborigins:slime": {
+      "enabled": true,
+      "moborigins:bouncy": true,
+      "moborigins:split": true,
+      "moborigins:small_weak": true,
+      "origins:fall_immunity": true,
+      "moborigins:slimy_color": true,
+      "moborigins:dyeable": true
+    },
+    "axolotl:axolotl": {
+      "enabled": true,
+      "axolotl:amphibious": true,
+      "axolotl:emergency_exit": true,
+      "axolotl:short": true,
+      "axolotl:cave_dweller": true,
+      "origins:aqua_affinity": true,
+      "axolotl:charm": true,
+      "axolotl:moisture": true,
+      "axolotl:relief": true,
+      "origins:carnivore": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true
+    }
+  }
+}

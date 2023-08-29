@@ -1,0 +1,13 @@
+name = "Mob Origins"
+filename = "moborigins-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48c2b6b34f020be96be5d9b1f55f959efe8514ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4415979
+project-id = 449974

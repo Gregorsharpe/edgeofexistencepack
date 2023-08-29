@@ -1,0 +1,13 @@
+name = "Even More Origins"
+filename = "even-more-origins-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90cebe06a7820313135b2cc55a0fd46f26655ead"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593282
+project-id = 584755
