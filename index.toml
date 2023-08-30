@@ -1504,6 +1504,11 @@ hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-furnaces.pw.toml"
+hash = "0d039b3ff3fd3e664ede8a33d08bc2e86031a086733552cc08e88fb8e14a9865"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
 metafile = true
@@ -1641,6 +1646,11 @@ metafile = true
 [[files]]
 file = "mods/icarus.pw.toml"
 hash = "96556c4a517c6c93512d818de6ecebc1415159a09770f4f8bd18bda7fedae639"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "cb976d6c6c4a65e566fd44e2bfe4af7297534b01c76a5bdfb94f64ff29725fe7"
 metafile = true
 
 [[files]]
@@ -1901,6 +1911,21 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "f1c69585786e1f769dcd6a6ee85e4a8893a5d271a9a6261142585fe46072a4f2"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "6065d2b0832274e58d873a5f69030e28dca1dc8dbd26ac98a1819cb8832a7263"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "d358348d23bdf2fbceae4a961e48a2a4e5b1faebe941f5e59d9b7d038ae74973"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "260666f60a35edb3ef7cf1c79c3bb97f86008ee029d31d7293b8ce6a670659df"
 metafile = true
 
 [[files]]
