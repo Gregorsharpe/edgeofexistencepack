@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
 [[files]]
-file = "README.md"
-hash = "4b159b1761b788b0dfbafa9d08d75b7cc65fa565e949dc8b891718aa2ebe05bc"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "74fe9f64ff49eb9b3486d4f7a85bd559df249156fff7a4ba13b458d352e171b0"
 
@@ -1255,12 +1251,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "980f303c37a66e4eaa0cb748d540c99fd27004ba71757abec9ec92217607ccfe"
+hash = "f2813256d1a3a3e199f1a3c489fd1a8c8bbb4f37182a677af04d512ef9ec233f"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "09ea62dee8d87e8ad9fdc85aba2e227516b85465de39dc8451df2b4e4b6fe412"
+hash = "35278d82d1ea87b70eae41132dcaffb2f8830e211ce6cc21c4dccfd18d5ba792"
 metafile = true
 
 [[files]]
@@ -1360,7 +1356,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+hash = "6c8319e3a6046cd20de5aff3c7d2d6eb8dcc5339a45bb97d134acad2d6fd9e48"
 metafile = true
 
 [[files]]
@@ -1460,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "df887ef39e3a78cf9a23adb5667978e7bb0ae2d3f7db68b670489180a8e2bc05"
+hash = "6dad053322a96cac8bb46941b9ebd4765f8f2dcb8365d5e78ed030259a17de7d"
 metafile = true
 
 [[files]]
@@ -1480,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler-fabric-official.pw.toml"
-hash = "78d3fe791bccc717555e63a8a9fbf7a603f5aa8f72db9a27d4a623ece40ab9cc"
+hash = "109d2e9c8047182feab2de7b4e03be3a0e8372be1fdae00fdd291dc886186c49"
 metafile = true
 
 [[files]]
@@ -1535,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
-hash = "cf0d9d8c93f1f1dee989fed768e7470bb3baf9763d64e8069c646b6d493ff56f"
+hash = "39ec7aa85638b262488a8b48ab969da9b3009030f545c45f97eb0539ddf3a79c"
 metafile = true
 
 [[files]]
@@ -1634,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "4af3bc99240e3faee2b2fc257702bd7e731455beeb2e73eb6f4ffa22e2ebf6cf"
+hash = "1fa2444fb1bdc85832e4ac367c667167d97562984adf66a2edcbd58a73113190"
 metafile = true
 
 [[files]]
@@ -1699,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "70fd6405f34b01b503b5aa10176a5f011c963290e75b23aa9b9d19e3bc1dc177"
+hash = "9c67035f6f8d8d966ceb627d9ef40cf74be032f6f64acfc74147f54bbce15313"
 metafile = true
 
 [[files]]
@@ -1714,7 +1710,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "e68e652755216d4191ee10a9aaec58d7e722d21bc7368cff07c820a9725ada18"
+hash = "2e117e0b6ee49a5e943e78e4f13dd3489294bcb8ccf0f7eae21b7fe80cb6f492"
 metafile = true
 
 [[files]]
@@ -1754,7 +1750,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "5c90923f6dea8b6f7ecd190f82726d844ad4a738d68d6b048b38c9b939d70ae9"
+hash = "c0f174ba7e03f0ef9e0d04bbf3749989d9ffebd619e0f8f48ef4328fe537a687"
 metafile = true
 
 [[files]]
@@ -1959,7 +1955,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-manager.pw.toml"
-hash = "5eaa5695eb83ba34e0459283307ab27c260ada3adc73af3fffa7dbf212111f22"
+hash = "a131f4f8ab3f8e87516e2fa9e29082a6d89b625e13816d267d6363ca339921f6"
 metafile = true
 
 [[files]]
@@ -1969,7 +1965,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "562a374d4d9e358bb96e706c15b7ae58458024dc558b92d2bd7b5d5ddd1d45b3"
+hash = "f37c8b37a5b88c98a0d5a32baa237a4799bad178799790843953df937235fc36"
 metafile = true
 
 [[files]]
