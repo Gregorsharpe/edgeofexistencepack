@@ -45,6 +45,14 @@ file = "config/ad_astra.jsonc"
 hash = "3978ec1649009ff0fb06a3865aa3440371dfd5a1702ef0e921a2320e19990d0c"
 
 [[files]]
+file = "config/advanced-xray-fabric/blocks.json"
+hash = "3a7df529287d8b206fe11082beb21707cccc285fb478d9c036b8fd4a3a32e8db"
+
+[[files]]
+file = "config/advanced-xray-fabric/settings.json"
+hash = "f15581307dc876f3099b4d8bb266a4e30c59adae68656ed86f3e8aba642121e8"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
@@ -70,19 +78,19 @@ hash = "d25176f00f04a414fd32cde50ace321468a97dd047e63139400957dac1a92c55"
 
 [[files]]
 file = "config/awesomedungeon_1.properties"
-hash = "b02cde95a73d4157cfc64712f5174764f004c260c4ad5c5ede10d9cfc20b3dac"
+hash = "3c0d5132ec94f199f832fcb7fbe6ae18e46ad450ee2a2664992b03ecaa229a72"
 
 [[files]]
 file = "config/awesomedungeonend_1.properties"
-hash = "e1a9227bf6887ebf806b172396473bad1cf90f2fb0d06b9b8322da1ce3c6d0fb"
+hash = "8f08a41324b22ddbb793268973ea3c16c48b759c61e8522dd111879c20b3645b"
 
 [[files]]
 file = "config/awesomedungeonnether_1.properties"
-hash = "93f4f18407aa57e79511b7cdce3cde8f6ed950a0811b78c9f3487db871e4e7ce"
+hash = "1e55971262285a7208aad41a8df4bf78b286d3c233c6005cc6c03efe171944c2"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "8219b1ecac8703298a2a72ff53bc800812a5fde9c39e4ea51900f577515ab340"
+hash = "b43bbb00c056de072169a7d1ca2aa09c4bae96326c2f0c678776a25d5ced709e"
 
 [[files]]
 file = "config/bcc.json"
@@ -186,7 +194,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "04349cb4268f26cca0244bd86acf81208e424d2aa9257b564da1bbbcd0dbf8ed"
+hash = "85c01fa8f8ee83dd4f6dec2af541ebb602bab1eef84bfbb50e8a8c920bf4f353"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -378,7 +386,7 @@ hash = "64db15233b5135e7b1ff652278896570c6599e5421864488f3ad3573a340fa61"
 
 [[files]]
 file = "config/cosmetica/cosmetica.properties"
-hash = "26e5dc854d3f74f76b9adad9452f44afc1fc3807c8fb240b771c97f115641ccf"
+hash = "ada0493227aa1733d955ded24fcf27cb10c7afae4758d1e3ffe10ca33c930292"
 
 [[files]]
 file = "config/cosmetica/default-settings.properties"
@@ -461,8 +469,12 @@ file = "config/enchdesc.json"
 hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
 [[files]]
+file = "config/extremesoundmuffler.json5"
+hash = "0ecb5af5bc23996d08866c4eb9161eba3ed218c19e6fb5d60677159c55843b31"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "6860aed56ea0629e92de60767c14c8243da27495e76ed3132b4730664026643c"
+hash = "aad86716b0efa2aaa2e995a39958a2bb9a59fdb0855b26e8f7d07b8f463bc964"
 
 [[files]]
 file = "config/farmersdelight.json"
@@ -479,6 +491,10 @@ hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 [[files]]
 file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/freecam.json5"
+hash = "df757adc53579ba8135c82d3dba3e4b9a8e4d30040cdc1913419a9500fa079c2"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -538,7 +554,7 @@ hash = "43d3c8ae1efe457d6d4dee2c520cb6941401e50b3b4598271b3ca75088fa3a5d"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "7fb7ca7afb8afed7455d9b1f6f30763235822f130baf9cc644ff5d1e14dd3479"
+hash = "d697f700d00124f7e381de64b179773695876016d163782b36c7b04b35225bb8"
 
 [[files]]
 file = "config/inventorysorter/blacklist.json5"
@@ -550,7 +566,7 @@ hash = "467ffb6d8efe2bef54d326ef497de1c2ae864076b3da426c506e12348fc95256"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f59e03da227d03d93b38197a1d07bf8d479ab43f5581193a476afe2e4b3ad377"
+hash = "d82722586460649924a4e6f99e2ebcb9e9d0a87ea64680141e611e544eee69c0"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -558,7 +574,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "9803e315d093361450c1c776ba417e6977b0043436d75abbc49b29524c2c0f7e"
+hash = "7b7ce56bc8e8f905d88ccdadec0b76845f5649c3ce9c853bcda512852b417e72"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -582,7 +598,11 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "52dae75d87f2ffba285a2f7827c9b69dfb8c23e0a5f5c35341bd05f1db807823"
+hash = "ddb55b54295ddfa393bb197d138f086c2696eb989a8aab5327cc7af8957addb5"
+
+[[files]]
+file = "config/jei/world/server/EoE_6f331526/bookmarks.ini"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -594,7 +614,7 @@ hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "6363ffb5d20eb5f3c378f362a54dc0a1e78020793bb91607e2b1a3291707a5b3"
+hash = "d0c7e69d8ae0a103f3591c84db898266bff0b6edee8b78a4630dec4fe5a2cab2"
 
 [[files]]
 file = "config/lightoverlay.properties"
@@ -978,7 +998,7 @@ hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
 file = "config/showmeyourskin.json"
-hash = "afd3761ae749690bc34eb3b89ecc48267b244dc89f5f83827d0f6fca36c613f6"
+hash = "8b78f315728496ecd0af8ae5802d1d4c5299af8a5caf3481444a9c0316ae4491"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -1014,15 +1034,15 @@ hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "fac6c30d858366c198a71311d3e68cb0029c0d1fb34df7f88ca4fd25c5e90471"
+hash = "8567148c804d58040c01bf9a6d960643c2b85182583c839ea6f4bd504760b8c6"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "5eae7db54a75f00c7b6cdcbdef8a0a95f663bacd38b3215e66b1776ed88e700e"
+hash = "227a9816f54424c997d1fc0c38a102cb792a7d6494b209b851dda78ef25653fe"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "7695b3bec58167bd9cb4e263207d28dcd7f0e5449fe1de1d34675b482d20c83c"
+hash = "ce99c26ecfedca545d42895b34525bc7e715c40a754c7781d6aaed90fe834ea3"
 
 [[files]]
 file = "config/spark/config.json"
@@ -1070,7 +1090,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "37d2aeb1c222d06daac7c0faba38b80c02dead0566f862e6d42faf55928db64c"
+hash = "97d0cee46823ee99caae213f4b79d77934e62f8a024ed103357aa1e49ef61cd9"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -1114,7 +1134,7 @@ hash = "942d0af10d3541cd3f0c5f1393869e8dc12c33de7ea0abf9c47a1e0faa209f9c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "9e971d5befe50d4300e4941240fe02740e3fd43ef0ff6cf48165b53446d105ea"
+hash = "c753e791b91f75f66ad0d605e6d613896aae4c39f023aa154cb5540cdd468e4c"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1155,6 +1175,11 @@ hash = "e052ce6a4cd32f6331e4d194aba0312fa08a4d6d6516d6eeecedd4ae9d8edea5"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -1547,11 +1572,6 @@ hash = "f93d5566fdc64e37155f2edab0c5e7147e133b2de1af20c4954c25c2c46203fe"
 metafile = true
 
 [[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "aee72847017e96821a2b82bf04c0aa5b85e2becd67dccea2e5514798c3ea5f0c"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "72726f9070b4363abb7d3e081c177097301c3541f5df3a00972fd3b18e79310b"
 metafile = true
@@ -1711,11 +1731,6 @@ hash = "b3ad8fc5c98e4c92c5da5f90694386120660df473fcd6d5eb0e855289580bbd2"
 metafile = true
 
 [[files]]
-file = "mods/materialisation3.pw.toml"
-hash = "0583e289f8a71e3d9aa07ee942859dbe0105ef025c34cc12c6dfbc32bd4353fe"
-metafile = true
-
-[[files]]
 file = "mods/mcdar.pw.toml"
 hash = "8ead45ac44072aa2182d2d92530370d6ba16cb198221703e2990c487e973bff7"
 metafile = true
@@ -1773,6 +1788,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
+metafile = true
+
+[[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "afae97e455506516e6d196935777d3cd1b733f8f36505cfc3491c69300cbb511"
 metafile = true
 
 [[files]]
@@ -1883,11 +1903,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "28f5cf4ecc0fbf1157cbda674f3bebc43cb0427f52b0f3cb6b1995d021876c03"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
 metafile = true
 
 [[files]]
