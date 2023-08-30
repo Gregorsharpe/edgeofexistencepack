@@ -1425,6 +1425,11 @@ hash = "d147dc346fe519f723666209841c92d8f70a7219c537358d24df61693b4007e2"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "67496756fcbd6d2a2ee9b4f89c286703d1f50a9b22fbb1918599ea217ffb62df"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
