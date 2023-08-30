@@ -36,5 +36,6 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
       {
         L: '#minecraft:logs'
       }
-  )
+    )
+
   })
