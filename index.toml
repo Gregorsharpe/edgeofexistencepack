@@ -2066,6 +2066,11 @@ hash = "a8909fb38b02b5eb7d2b53fc1ce1f40b59a8648058306ad3dfd8b5a6100e49a7"
 metafile = true
 
 [[files]]
+file = "mods/simple-cobblestone-generator.pw.toml"
+hash = "22a17302084f73741c4d006d0d03702e1a79bd74ce8c43475c6dc0a54672d3e6"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "27169c9007c7fbd4583c173cc883fc0662cfc1e6f3b0dea7fd41ea086dac67d7"
 metafile = true
