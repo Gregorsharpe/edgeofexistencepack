@@ -1300,6 +1300,11 @@ hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "93c329243ab16f36256c4757d6209b8aae31c9bd156a97b2be16ebe562cbfab0"
 metafile = true
@@ -1337,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "bd4c1da41f5e44004db0920732d151566f06631bf5c0579092e15d0ddc688a52"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "aa662c6d90c0974ce669e5409e6e3f71c04966884226d1fbfc36f0c1bfcdeae9"
 metafile = true
 
 [[files]]
@@ -1430,6 +1440,11 @@ hash = "67496756fcbd6d2a2ee9b4f89c286703d1f50a9b22fbb1918599ea217ffb62df"
 metafile = true
 
 [[files]]
+file = "mods/d-placeable-food-fabric-forge.pw.toml"
+hash = "17649bb7f5b1b5d1971917d80b2dce62065a359931e2b3a851efb9e49c6e0844"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
@@ -1437,6 +1452,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "77377cd4852b304838e067a8133249ad074bdfd202f243e1b340deeb2418482a"
+metafile = true
+
+[[files]]
+file = "mods/disc-holders-dj.pw.toml"
+hash = "5b04295c0a8b87bb23b63715eac214ba7976c2958cf615a502297f483d4e2541"
 metafile = true
 
 [[files]]
@@ -1584,6 +1604,11 @@ hash = "542d073bc190c95d238816fe5ed89f1ef724db248b3f877755e0bbb8059bc126"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders-fabric.pw.toml"
+hash = "936625a75a4e6100cce6ce3fe4a5ff89cc7771620c7d2870b2054a5c1411a4b0"
+metafile = true
+
+[[files]]
 file = "mods/gravityapi.pw.toml"
 hash = "bd5a6b94c2d43c4100730070d77c9c4d15d73153aa8eaea0766fa63cbc9df5f3"
 metafile = true
@@ -1591,6 +1616,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival-fabric.pw.toml"
+hash = "15147acd67edb8487c31082b15ffabcc8a37e9e660a2a9aec5763be00680b3e3"
 metafile = true
 
 [[files]]
@@ -1714,6 +1744,11 @@ hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "2e117e0b6ee49a5e943e78e4f13dd3489294bcb8ccf0f7eae21b7fe80cb6f492"
 metafile = true
@@ -1751,6 +1786,11 @@ metafile = true
 [[files]]
 file = "mods/more-bows-restrung.pw.toml"
 hash = "dd6102310751c6a9dea8c0e79444ecdd12a3c79ada208f9229261246948e65d8"
+metafile = true
+
+[[files]]
+file = "mods/more-mc-music-discs.pw.toml"
+hash = "b0abb0f3ba8ce6fd5ee66022cb1e26827ae601ed457fb996fef2963e2cd63615"
 metafile = true
 
 [[files]]
@@ -1819,6 +1859,11 @@ hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "39dccca9c4e5b41972da4b75788288a84355f32e79df0b62d23418a8e1158fbb"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
@@ -1836,6 +1881,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "a6ce930614fb99dffc2f09cc0d24eb04fae6dbddf94bf5f29350f74fe8abc984"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "7531ed67008b55c1696038baa293d0eb41fdb758ac90c930b8db2c1581a48b06"
 metafile = true
 
 [[files]]
@@ -1909,6 +1959,11 @@ hash = "f937acb04fdf1b4449eeb8504698673368d189972bd02b9fd32b75eb146a6a43"
 metafile = true
 
 [[files]]
+file = "mods/smelting-plus-fabric-forge.pw.toml"
+hash = "701d3997dda42fe7b1554bd7a3a678d714ce45281c4394829ae93fd5661bddaa"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
@@ -1934,6 +1989,11 @@ hash = "9998738e158a3c70344c63af68df941d64c1a23423a747e5ac52edd9dcb353b5"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "98dacf43b37594d17c93c3de160a8cff6c108f816bfa2e79ee26a9e8240714a8"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
@@ -1956,6 +2016,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "6734412a617158ad5bc8dc65402b1b14adc3628ce10b5528e04b5abf5ca9531a"
+metafile = true
+
+[[files]]
+file = "mods/thonkutil.pw.toml"
+hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
 metafile = true
 
 [[files]]
