@@ -1590,13 +1590,13 @@ hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "dfd337ef3bd24d0f7632ffbb7dde68cf50dba56f0e2b78160b1a0091283c16a8"
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+file = "mods/hexal.pw.toml"
+hash = "dfd337ef3bd24d0f7632ffbb7dde68cf50dba56f0e2b78160b1a0091283c16a8"
 metafile = true
 
 [[files]]
@@ -1605,8 +1605,9 @@ hash = "f83b97ff8bd08eba534568c9cb8b1927f686df6e2056615e40e9f02b04422d33"
 metafile = true
 
 [[files]]
-file = "mods/hexkinetics-fabric-1.19.2-0.7.2.jar"
-hash = "380b4f4a6e89037e6850ea31ee58c4cb7fdb952699275265efaf4f1adeb826c9"
+file = "mods/hexkinetics.pw.toml"
+hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
+metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
