@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "35278d82d1ea87b70eae41132dcaffb2f8830e211ce6cc21c4dccfd18d5ba792"
+hash = "e2cdd63e7945b70a5361f3437671b5d923a2e329171b42053b201e88dd6ca58d"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "6dad053322a96cac8bb46941b9ebd4765f8f2dcb8365d5e78ed030259a17de7d"
+hash = "dc78d1b39a292b2b4944dab2801c770795183159c3102e20f5a03cf62dea8962"
 metafile = true
 
 [[files]]
@@ -1781,7 +1781,7 @@ metafile = true
 
 [[files]]
 file = "mods/norecipebook-fabric.pw.toml"
-hash = "afae97e455506516e6d196935777d3cd1b733f8f36505cfc3491c69300cbb511"
+hash = "247a8468d3cf4e9cdf2d839d63dea841b3f3132fd3b35650e91e74993e966e21"
 metafile = true
 
 [[files]]
