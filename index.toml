@@ -45,14 +45,6 @@ file = "config/ad_astra.jsonc"
 hash = "3978ec1649009ff0fb06a3865aa3440371dfd5a1702ef0e921a2320e19990d0c"
 
 [[files]]
-file = "config/advanced-xray-fabric/blocks.json"
-hash = "3a7df529287d8b206fe11082beb21707cccc285fb478d9c036b8fd4a3a32e8db"
-
-[[files]]
-file = "config/advanced-xray-fabric/settings.json"
-hash = "f15581307dc876f3099b4d8bb266a4e30c59adae68656ed86f3e8aba642121e8"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
