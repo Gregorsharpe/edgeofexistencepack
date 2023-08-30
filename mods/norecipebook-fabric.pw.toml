@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/TvL1V8O5/versions/jSRWGgq7/norecipebook-2.3
 hash-format = "sha1"
 hash = "ce6707435ef0fcc1633450277a386ac278aeed1d"
 
+[option]
+optional = true
+default = true
+description = "Hides the Minecraft recipe book in GUIs since JEI replaces and improves it."
+
 [update]
 [update.modrinth]
 mod-id = "TvL1V8O5"
