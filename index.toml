@@ -1195,6 +1195,21 @@ hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "bb734cb70f6a2205732ba04fc929d27bc350d9d40616a3ac466e62b1dd748c18"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ab1e75876692f30d83f4a643064408a3915cd4bd1ee3b8423758bd58a252090e"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "98f0ce2684c2577ff25c171190d75e052fcb1b5c0c5b6aff9b66b8233fbf4009"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
 metafile = true
