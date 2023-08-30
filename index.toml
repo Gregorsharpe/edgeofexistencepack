@@ -1465,9 +1465,8 @@ hash = "4d1a076a0ca8912a1fb09c43b07b2d716f9d2c2f35d1a30be7a97203d6f2aee6"
 metafile = true
 
 [[files]]
-file = "mods/even-more-origins.pw.toml"
-hash = "8c6e07c49e6a16ea1979ad56ac359baab0e9d56992410c88b848f7a9601acfe9"
-metafile = true
+file = "mods/even-more-origins-0.2.5.jar"
+hash = "fb2a49dd5cea3b7e28ba59dd74da2aeac8fc03f3754b26c341ae1a98f5507ac9"
 
 [[files]]
 file = "mods/extra-origins.pw.toml"
