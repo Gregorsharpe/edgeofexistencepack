@@ -1,0 +1,13 @@
+name = "More Music Discs [Fabric/Forge]"
+filename = "morediscs-1.19.2-30-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "674b02091c59b26dd644dd7bd254ead1deb0c2a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4727968
+project-id = 471002

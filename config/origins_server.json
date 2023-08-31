@@ -494,7 +494,8 @@
       "even_more_origins:dragon_crystal": true,
       "even_more_origins:dragon_wings": true,
       "even_more_origins:fast_metabolism": true,
-      "even_more_origins:no_regen": true
+      "even_more_origins:no_regen": true,
+      "even_more_origins:magic_immunity": true
     },
     "moborigins:evoker": {
       "enabled": true,

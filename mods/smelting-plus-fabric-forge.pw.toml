@@ -1,0 +1,13 @@
+name = "Smelting Plus [Fabric & Forge]"
+filename = "smelting-plus-v1.0.2-(fabric-forge-quilt).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb004038e94ac4bd5305c91f514f0bdec8b47bfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4430242
+project-id = 759685
