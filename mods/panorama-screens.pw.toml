@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "40314ece5e3e74dbc6795dc1bf5c09ef6c2051d3"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Adds panorama scenes to otherwise boring menus."
+
 [update]
 [update.curseforge]
 file-id = 4505330
