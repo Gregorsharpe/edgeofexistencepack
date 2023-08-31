@@ -1468,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
+hash = "9ac2afb3a1177815f0ddadc39b77ff9b2cf74a4860bceba689ff80e1556d143c"
 metafile = true
 
 [[files]]
@@ -1590,10 +1590,6 @@ metafile = true
 file = "mods/ender-dragon-egg-respawn-fabric.pw.toml"
 hash = "4d1a076a0ca8912a1fb09c43b07b2d716f9d2c2f35d1a30be7a97203d6f2aee6"
 metafile = true
-
-[[files]]
-file = "mods/even-more-origins-0.2.4.jar"
-hash = "10b3255bf77d15047e0cc1a76cd04291c2de97b5b7e9b8bfc5aa80b1fefc77a6"
 
 [[files]]
 file = "mods/even-more-origins-0.2.5.jar"
