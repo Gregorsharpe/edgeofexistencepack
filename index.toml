@@ -1465,9 +1465,8 @@ hash = "4d1a076a0ca8912a1fb09c43b07b2d716f9d2c2f35d1a30be7a97203d6f2aee6"
 metafile = true
 
 [[files]]
-file = "mods/even-more-origins.pw.toml"
-hash = "3b7870a297c917644ea11c2e84a465105f6cbc2b35f853cb9ad2248a4ea2b43e"
-metafile = true
+file = "mods/even-more-origins-0.2.4.jar"
+hash = "10b3255bf77d15047e0cc1a76cd04291c2de97b5b7e9b8bfc5aa80b1fefc77a6"
 
 [[files]]
 file = "mods/extra-origins.pw.toml"
@@ -1880,9 +1879,8 @@ hash = "cfaa03261c728a4c2d75fb8a69c3f4970c3b89d38c6b33041650dbe0b20f866e"
 metafile = true
 
 [[files]]
-file = "mods/seleni.pw.toml"
-hash = "2c3832e0633775415948ee2d983a18d671571061e550101dfac986e1c21559a7"
-metafile = true
+file = "mods/seleni-0.2.3+1.19.2.jar"
+hash = "cd9d99efdb412ef7da988e473b86d20320b0bcc2fed28e103fa155e8fcaf0ea0"
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
