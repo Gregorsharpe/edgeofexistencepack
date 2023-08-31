@@ -1462,13 +1462,13 @@ hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "b1c729a5c07c216e32bd88c9c31dedcca1b8fd20b314b89e5c673e1c6cc9a359"
+file = "mods/consulars-origins.pw.toml"
+hash = "3e204c9f0957d63ce71811a38e543e32207ef411019767aff53d44bffd374690"
 metafile = true
 
 [[files]]
-file = "mods/consulars-origins.pw.toml"
-hash = "3e204c9f0957d63ce71811a38e543e32207ef411019767aff53d44bffd374690"
+file = "mods/continuity.pw.toml"
+hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
 metafile = true
 
 [[files]]
