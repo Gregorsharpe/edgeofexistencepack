@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".githooks"
+hash = "7cd1acac6e957b1ea3b6c58971fb1022fd71f85d61faf980d5581730eb08f707"
+
+[[files]]
 file = "LICENSE"
 hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
@@ -1588,6 +1592,10 @@ hash = "4d1a076a0ca8912a1fb09c43b07b2d716f9d2c2f35d1a30be7a97203d6f2aee6"
 metafile = true
 
 [[files]]
+file = "mods/even-more-origins-0.2.4.jar"
+hash = "10b3255bf77d15047e0cc1a76cd04291c2de97b5b7e9b8bfc5aa80b1fefc77a6"
+
+[[files]]
 file = "mods/even-more-origins-0.2.5.jar"
 hash = "fb2a49dd5cea3b7e28ba59dd74da2aeac8fc03f3754b26c341ae1a98f5507ac9"
 
@@ -1968,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/panorama-screens.pw.toml"
-hash = "39dccca9c4e5b41972da4b75788288a84355f32e79df0b62d23418a8e1158fbb"
+hash = "2c70fdf75bf5271a7527d65aa3b8e2810af558ec09214276e29c41220f25dbd0"
 metafile = true
 
 [[files]]
