@@ -1,0 +1,13 @@
+name = "Compact Machines - Fabric"
+filename = "compactmachines-5.1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "719e676917206e1bf3b2cc5dcfd095226a4f15ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3908629
+project-id = 648676

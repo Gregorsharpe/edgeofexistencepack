@@ -1462,6 +1462,11 @@ hash = "aa662c6d90c0974ce669e5409e6e3f71c04966884226d1fbfc36f0c1bfcdeae9"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines-fabric.pw.toml"
+hash = "b1619387d21b86348d5cc8dbe0c65f6ddc5e2ad8954c52ba82ccb6f5a9f17111"
+metafile = true
+
+[[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
