@@ -1402,6 +1402,11 @@ hash = "c16c821d42e7e7a5dfdbe01a0bde660feb98218e5a2e7d7506da7818606216c5"
 metafile = true
 
 [[files]]
+file = "mods/bucolic-origins.pw.toml"
+hash = "7dff256daa928a2ee01d8977d4e0e739ce7ee5c545688e40d9e67e7defd1e237"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components.pw.toml"
 hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
