@@ -1891,6 +1891,11 @@ hash = "8ead45ac44072aa2182d2d92530370d6ba16cb198221703e2990c487e973bff7"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "07152fc5a33b84a4137f2e7f189ab8b7340c48a74019c532dc7fb5562c5d42e6"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true

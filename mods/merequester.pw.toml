@@ -1,0 +1,13 @@
+name = "ME Requester"
+filename = "merequester-fabric-1.19.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd2ea86d8bf1267e0c10b4a745b9771d9e22d0d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4720765
+project-id = 688367
