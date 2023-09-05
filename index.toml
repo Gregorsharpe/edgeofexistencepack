@@ -1312,6 +1312,11 @@ hash = "9aad15cce412d016d9489075c3f3269e2dff2de1c6cd9eb094da703f419358b7"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "d531e62db8927a1a2316ef64565c577abd733aa9eaeb383390754ab1523ebc3d"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-fabric.pw.toml"
 hash = "e3135dfbdb28d6cfcb6bfa3083fac8a72481cdf5123f2810b17b15e7eac1e208"
 metafile = true
