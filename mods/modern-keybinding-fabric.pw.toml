@@ -1,0 +1,18 @@
+name = "Modern KeyBinding [Fabric]"
+filename = "ModernKeyBinding-Fabric-1.19.2-1.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c40c11d5eadd92bcf5b02b1f9f588724ab9f28f3"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = false
+description = "Allows modifier keybinds in Fabric, and allows triggering 'conflicting' keys together. NOT COMPATIBLE WITH CONTROLLING. Not reccomended unless you're obsessive about keybinds."
+
+[update]
+[update.curseforge]
+file-id = 4563859
+project-id = 695433

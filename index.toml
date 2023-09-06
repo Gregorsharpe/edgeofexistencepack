@@ -610,7 +610,7 @@ hash = "0eaf25af419e334bd0a6626aae501ee21fe27c22584e8ab6fc40be446014e98d"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "ec3cedd9bc2de32537d63f341315f881030e33ec2bf2718a95b1790c80a7db18"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -1477,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-fabric.pw.toml"
-hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
+hash = "378d546f59399ea7ccb1033a0ae4a68735292c0432cbcb9fb813b4bd759d263f"
 metafile = true
 
 [[files]]
@@ -1912,6 +1912,11 @@ metafile = true
 [[files]]
 file = "mods/mob-origins.pw.toml"
 hash = "82afe528520caae54b6262b77b6524d84892385c8da120ec416a7d701a56ff65"
+metafile = true
+
+[[files]]
+file = "mods/modern-keybinding-fabric.pw.toml"
+hash = "7cd15ae0e66376123795aa14b11fb7b3b7cadbf6bd226d5d441b561afbfdfb50"
 metafile = true
 
 [[files]]
