@@ -13,6 +13,10 @@ file = "config/Adorn.json5"
 hash = "74fe9f64ff49eb9b3486d4f7a85bd559df249156fff7a4ba13b458d352e171b0"
 
 [[files]]
+file = "config/ModernKeyBinding-Config.properties"
+hash = "c58cbfdf304e06569b1cc6afd3d05c7c933b4776bc27dc2ad7484d2921fdb4f2"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
