@@ -39,5 +39,4 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
     )
 
     event.remove({output: 'bwplus:rgb_witch_wool'})
-
   })

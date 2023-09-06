@@ -614,7 +614,7 @@ hash = "0eaf25af419e334bd0a6626aae501ee21fe27c22584e8ab6fc40be446014e98d"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "ec3cedd9bc2de32537d63f341315f881030e33ec2bf2718a95b1790c80a7db18"
+hash = "cc89b0e55ce0db56ddbbc1777e833e975f3b4feed08534075730bfec128c8a34"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -1254,7 +1254,11 @@ hash = "1306beaccddccc5ce12880dbf060a9d865f66b55d1f88e029d126aec60fe4d20"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "12e59e34ce80b81d78a9658f8eb0736ce421e1a63e5a07d0fff845db02ce7849"
+hash = "9db32ba47dfeaa5e8cc9cbd8dd15c8811e0c8b57e6e31dcfd0fe465c227f9a47"
+
+[[files]]
+file = "kubejs/server_scripts/fabric_furnaces.js"
+hash = "ad8527607237665005b8f761a59d5045624eecd40d322bbef2c7276f80597385"
 
 [[files]]
 file = "kubejs/server_scripts/reinforced_storage.js"
