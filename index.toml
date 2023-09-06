@@ -1477,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-fabric.pw.toml"
-hash = "378d546f59399ea7ccb1033a0ae4a68735292c0432cbcb9fb813b4bd759d263f"
+hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "6c8319e3a6046cd20de5aff3c7d2d6eb8dcc5339a45bb97d134acad2d6fd9e48"
+hash = "154dc5b1815fdbc3ebd32c8772c5bd492f0f2520cc57fd599326be9909bc4835"
 metafile = true
 
 [[files]]

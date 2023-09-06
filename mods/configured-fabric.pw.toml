@@ -1,16 +1,11 @@
 name = "Configured (Fabric)"
 filename = "configured-fabric-2.0.0-1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
 hash = "d127fe05abd740f0ad6417ca72eccb12edeb9c71"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Better keybinding with filtering and searching-by-mod. Reccomended for most users."
 
 [update]
 [update.curseforge]
