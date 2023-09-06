@@ -1245,8 +1245,12 @@ file = "kubejs/config/common.properties"
 hash = "0ad1d0e59b5af611001109572d9556995b92e4780f8eef91c3251d412b5e3d4e"
 
 [[files]]
+file = "kubejs/server_scripts/compact_machines.js"
+hash = "1306beaccddccc5ce12880dbf060a9d865f66b55d1f88e029d126aec60fe4d20"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "5ab3c1940e1f957a7f537c8be166c012db3707eea59cb4a86edbafdd8fce5358"
+hash = "12e59e34ce80b81d78a9658f8eb0736ce421e1a63e5a07d0fff845db02ce7849"
 
 [[files]]
 file = "kubejs/server_scripts/reinforced_storage.js"
@@ -2202,6 +2206,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "91c85b57f9bf6c20740b85f65a38fb8a7668b6cdbc2b0b24652fb7940e99a64d"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "6daef84f48cbebe40e3d433ce737abb88c6cb126b3d8f7fbd51fb43e13f57646"
 metafile = true
 
 [[files]]
