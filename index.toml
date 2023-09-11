@@ -1619,6 +1619,11 @@ hash = "4d1a076a0ca8912a1fb09c43b07b2d716f9d2c2f35d1a30be7a97203d6f2aee6"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "38efddf8e868ce455fe7e1f0f74dcc6b30a59d0d78cf2d218d47a9d364f60884"
+metafile = true
+
+[[files]]
 file = "mods/even-more-origins-0.2.5.jar"
 hash = "fb2a49dd5cea3b7e28ba59dd74da2aeac8fc03f3754b26c341ae1a98f5507ac9"
 
