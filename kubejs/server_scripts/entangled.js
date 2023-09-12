@@ -3,7 +3,7 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
     event.remove({id: 'entangled:item'})
 
     event.shaped(
-        'entangled:block', // arg 1: output
+        'entangled:block',
         [
           'PNP',
           'NDN',
@@ -17,7 +17,7 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
       )
 
     event.shaped(
-    'entangled:block', // arg 1: output
+    'entangled:block',
     [
         ' PS',
         ' NP',

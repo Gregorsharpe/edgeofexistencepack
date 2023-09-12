@@ -497,6 +497,10 @@ file = "config/enchdesc.json"
 hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
 [[files]]
+file = "config/entangled-common.toml"
+hash = "a1af9a612e61600acf62c7ae79eb98d8fcf72ea56194c3de371057e6d9f085f0"
+
+[[files]]
 file = "config/extremesoundmuffler.json5"
 hash = "0ecb5af5bc23996d08866c4eb9161eba3ed218c19e6fb5d60677159c55843b31"
 
@@ -1251,6 +1255,14 @@ hash = "0ad1d0e59b5af611001109572d9556995b92e4780f8eef91c3251d412b5e3d4e"
 [[files]]
 file = "kubejs/server_scripts/compact_machines.js"
 hash = "1306beaccddccc5ce12880dbf060a9d865f66b55d1f88e029d126aec60fe4d20"
+
+[[files]]
+file = "kubejs/server_scripts/create.js"
+hash = "8cfbe6af47739dd7fdc2c56f0726d32548ebf8854436c4ab8de139a3f57b919f"
+
+[[files]]
+file = "kubejs/server_scripts/entangled.js"
+hash = "2f3b35fcc6a7a9d3c8dd8d515eb6457cd56ae5fcff4555535d2fa4b5697a7dab"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
