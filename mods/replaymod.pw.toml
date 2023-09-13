@@ -1,0 +1,18 @@
+name = "ReplayMod"
+filename = "replaymod-1.19.2-2.6.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/EtYipT0o/replaymod-1.19.2-2.6.13.jar"
+hash-format = "sha1"
+hash = "b2417d5e719daf0696a879287fdae2c1bf9df68f"
+
+[option]
+optional = true
+default = false
+description = "Allows recording of game sessions, along with an entire playback suite for custom camera angles and rendering out videos. Complicated setup, see https://www.replaymod.com/docs/ for more info."
+
+[update]
+[update.modrinth]
+mod-id = "Nv2fQJo5"
+version = "EtYipT0o"
