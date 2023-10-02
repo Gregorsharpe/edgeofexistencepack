@@ -17,7 +17,7 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
       )
 
     event.shaped(
-    'entangled:block',
+    'entangled:item',
     [
         ' PS',
         ' NP',

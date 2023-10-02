@@ -1258,11 +1258,11 @@ hash = "1306beaccddccc5ce12880dbf060a9d865f66b55d1f88e029d126aec60fe4d20"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "8cfbe6af47739dd7fdc2c56f0726d32548ebf8854436c4ab8de139a3f57b919f"
+hash = "65a784b8d8efc35437754c7ae8bf459cafad3b3cd6eb3e863337b27ff9cc0327"
 
 [[files]]
 file = "kubejs/server_scripts/entangled.js"
-hash = "2f3b35fcc6a7a9d3c8dd8d515eb6457cd56ae5fcff4555535d2fa4b5697a7dab"
+hash = "38308a10ff95c527637ab00ea8180e98cbf540222830f67c5d7471e27d238381"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
