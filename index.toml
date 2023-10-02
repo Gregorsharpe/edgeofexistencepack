@@ -1531,6 +1531,11 @@ hash = "499dce3e3edf310f7254d6d5fa300cad4e8dd9a094c27b87480b164a9b7e83f7"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c4f3bd8a5ba1c60443c8bca84240051816826f8e1f18ce5bfb6dfb865324a304"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "a2da82dff5c76651934a5a7fa6ba45cf876cb2da3e07ff15566c60498265fd25"
 metafile = true
@@ -1695,6 +1700,11 @@ hash = "76ae7b18d65669df2facfd2790e7136f53b35d8b121a7be8ff0f66f774ac4b16"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a0e9f484d9d48d62f240d837983386d80e53e517e59b8ac623e75268d8319505"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
@@ -1812,6 +1822,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
 metafile = true
 
 [[files]]
@@ -2302,6 +2317,10 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "f226c76915922eff0167fac761a4961576cb4ea0159871c4796813c93511073a"
 metafile = true
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
+hash = "e3618c21d930861b409f86445c4517810dd55b8134a095a894ec8ba3be832682"
 
 [[files]]
 file = "servers.dat"
