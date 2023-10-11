@@ -1296,6 +1296,11 @@ hash = "4ef55e1a00df449abacd89e5f15038f3291e7babf08f2ab358d7dea1ece8f0ac"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "89d65309343be6b58c2b27ea08fbccbdb7bc9032e54a16807965a632cc846b50"
 metafile = true
@@ -2317,6 +2322,10 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "f226c76915922eff0167fac761a4961576cb4ea0159871c4796813c93511073a"
 metafile = true
+
+[[files]]
+file = "scripts/common/phials.zs"
+hash = "3fc5b5b4bdd1ef0e1beb547f89f95ddb89c61150cb14180d35a6c26ab3aa8120"
 
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
